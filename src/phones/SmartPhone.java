@@ -85,9 +85,9 @@ public class SmartPhone
   * A mutator that sets the Phone's price as a double
   * @param price
   */
- public void setPrice(double priceGiven) 
+ public void setPrice(double price) 
  {
-  this.price = priceGiven;
+  this.price = price;
  }
 
  /**
