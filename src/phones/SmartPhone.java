@@ -23,7 +23,7 @@ public class SmartPhone
   */
  public SmartPhone()
  {
-  //intentionally changed the comment
+  //intentionally left blank
  }
  
  /**
