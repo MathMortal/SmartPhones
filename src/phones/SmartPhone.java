@@ -8,7 +8,7 @@ import java.text.DecimalFormat;
  * A class to be used in the In-class Exercise 2
  * A SmartPhone has a name and a price.
  * Students my not edit this file unless translating to C#.
- * @author Liz Dancy, 2021 change made during class
+ * @author Liz Dancy, 2022 updated copyright
  *
  */
 public class SmartPhone 
