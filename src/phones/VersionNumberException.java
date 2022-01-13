@@ -3,7 +3,7 @@ package phones;
 /**
  * A custom Exception that will tell you information
  * about unsupported SmartPhone versions
- * @author Liz Dancy, 2021
+ * @author Liz Dancy, 2022
  *
  */
 public class VersionNumberException extends Exception {
